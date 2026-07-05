@@ -1,7 +1,7 @@
 [
   {
-    "ver": 60,
-    "date": "2026/6/17",
+    "ver": 61,
+    "date": "2026/7/5",
     "music_data": [
       {
         "data_index": 0,
@@ -2588,7 +2588,7 @@
         "level_value": 14,
         "plus_flag": 0,
         "music_const": 14.4,
-        "difficulty_ap": 15
+        "difficulty_ap": 16
       },
       {
         "data_index": 199,
@@ -4434,7 +4434,7 @@
         "level_value": 13.5,
         "plus_flag": 1,
         "music_const": 13.9,
-        "difficulty_ap": 14
+        "difficulty_ap": 15
       },
       {
         "data_index": 341,
@@ -4551,7 +4551,7 @@
         "level_value": 14,
         "plus_flag": 0,
         "music_const": 14.3,
-        "difficulty_ap": 15
+        "difficulty_ap": 16
       },
       {
         "data_index": 350,
@@ -4564,7 +4564,7 @@
         "level_value": 13.5,
         "plus_flag": 1,
         "music_const": 13.9,
-        "difficulty_ap": 14
+        "difficulty_ap": 15
       },
       {
         "data_index": 351,
@@ -4828,81 +4828,81 @@
       },
       {
         "data_index": 371,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
+        "music_id": "4b08ab11015cc2d04bb9e3c08bc71e34",
+        "music_title": "れとりば！",
+        "is_same_jacket_flag": 0,
+        "diff_name": "inf",
+        "level": 11,
+        "level_disp": 11,
+        "level_value": 11,
         "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "music_const": 11,
+        "difficulty_ap": 4
       },
       {
         "data_index": 372,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
+        "music_id": "ffddda9252b6ec82b7e948d9e78a5a23",
+        "music_title": "MURASAME",
+        "is_same_jacket_flag": 0,
+        "diff_name": "inf",
+        "level": 12,
+        "level_disp": 12,
+        "level_value": 12,
         "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "music_const": 12.3,
+        "difficulty_ap": 8
       },
       {
         "data_index": 373,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
-        "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "music_id": "8cb8de6873775e9288d5d25ee1389a38",
+        "music_title": "Deep tenDon Reflex",
+        "is_same_jacket_flag": 0,
+        "diff_name": "inf",
+        "level": 12,
+        "level_disp": "12+",
+        "level_value": 12.5,
+        "plus_flag": 1,
+        "music_const": 12.8,
+        "difficulty_ap": 10
       },
       {
         "data_index": 374,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
+        "music_id": "cae53c9ff5428fc605356d136e4aee66",
+        "music_title": "断罪のミメシス",
+        "is_same_jacket_flag": 0,
+        "diff_name": "inf",
+        "level": 13,
+        "level_disp": 13,
+        "level_value": 13,
         "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "music_const": 13.6,
+        "difficulty_ap": 13
       },
       {
         "data_index": 375,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
-        "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "music_id": "81d88a2fcca36b038cc50186b3876cd7",
+        "music_title": "Smintheus",
+        "is_same_jacket_flag": 0,
+        "diff_name": "inf",
+        "level": 13,
+        "level_disp": "13+",
+        "level_value": 13.5,
+        "plus_flag": 1,
+        "music_const": 13.9,
+        "difficulty_ap": 15
       },
       {
         "data_index": 376,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
+        "music_id": "a58b53c8d0a05ebd190dc02141fa4ec4",
+        "music_title": "Any%",
+        "is_same_jacket_flag": 0,
+        "diff_name": "inf",
+        "level": 13,
+        "level_disp": 13,
+        "level_value": 13,
         "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "music_const": 13,
+        "difficulty_ap": 12
       },
       {
         "data_index": 377,
