@@ -1,7 +1,7 @@
 [
   {
-    "ver": 63,
-    "date": "2026/8/21",
+    "ver": 64,
+    "date": "2026/9/3",
     "music_data": [
       {
         "data_index": 0,
@@ -5045,7 +5045,7 @@
         "level_value": 12.5,
         "plus_flag": 1,
         "music_const": 12.9,
-        "difficulty_ap": 0
+        "difficulty_ap": 11
       },
       {
         "data_index": 388,
@@ -5058,7 +5058,7 @@
         "level_value": 11.5,
         "plus_flag": 1,
         "music_const": 11.9,
-        "difficulty_ap": 0
+        "difficulty_ap": 8
       },
       {
         "data_index": 389,
@@ -5071,7 +5071,7 @@
         "level_value": 13,
         "plus_flag": 0,
         "music_const": 13.6,
-        "difficulty_ap": 0
+        "difficulty_ap": 14
       },
       {
         "data_index": 390,
@@ -5084,20 +5084,20 @@
         "level_value": 12,
         "plus_flag": 0,
         "music_const": 12.6,
-        "difficulty_ap": 0
+        "difficulty_ap": 8
       },
       {
         "data_index": 391,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
+        "music_id": "22f72b108596e64379c6f300cad94434",
+        "music_title": "夢色ワンダー",
+        "is_same_jacket_flag": 0,
+        "diff_name": "inf",
+        "level": 12,
+        "level_disp": 12,
+        "level_value": 12,
         "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "music_const": 12.4,
+        "difficulty_ap": 8
       },
       {
         "data_index": 392,
