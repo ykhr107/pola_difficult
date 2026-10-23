@@ -66,7 +66,7 @@
         "level_value": 12,
         "plus_flag": 0,
         "music_const": 12.5,
-        "difficulty_ap": 0
+        "difficulty_ap": 7
       },
       {
         "data_index": 5,
@@ -313,7 +313,7 @@
         "level_value": 12,
         "plus_flag": 0,
         "music_const": 12.4,
-        "difficulty_ap": 0
+        "difficulty_ap": 6
       },
       {
         "data_index": 24,
@@ -651,7 +651,7 @@
         "level_value": 11,
         "plus_flag": 0,
         "music_const": 11.5,
-        "difficulty_ap": 0
+        "difficulty_ap": 5
       },
       {
         "data_index": 50,
@@ -664,7 +664,7 @@
         "level_value": 12,
         "plus_flag": 0,
         "music_const": 12.3,
-        "difficulty_ap": 0
+        "difficulty_ap": 8
       },
       {
         "data_index": 51,
@@ -1015,7 +1015,7 @@
         "level_value": 11,
         "plus_flag": 0,
         "music_const": 11.2,
-        "difficulty_ap": 0
+        "difficulty_ap": 3
       },
       {
         "data_index": 78,
@@ -5231,29 +5231,29 @@
       },
       {
         "data_index": 402,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
-        "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "music_id": "bd7b866efc468bebd86bb77f75e8733c",
+        "music_title": "Sakura Reflection",
+        "is_same_jacket_flag": 0,
+        "diff_name": "inf",
+        "level": 11,
+        "level_disp": "11+",
+        "level_value": 11.5,
+        "plus_flag": 1,
+        "music_const": 11.8,
+        "difficulty_ap": 0
       },
       {
         "data_index": 403,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
+        "music_id": "84072849f06bb335341cbed266c60339",
+        "music_title": "7 Colors",
+        "is_same_jacket_flag": 0,
+        "diff_name": "inf",
+        "level": 12,
+        "level_disp": 12,
+        "level_value": 12,
         "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "music_const": 12.1,
+        "difficulty_ap": 0
       },
       {
         "data_index": 404,
