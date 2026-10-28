@@ -8,7 +8,7 @@ const MUSIC_JSON = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_RE
 
 const REMOTE_JACKET_BASE_URL = "https://p.eagate.573.jp/game/polarischord/pc/img/music/jacket.html";
 const REMOTE_JACKET_URL = id => `${REMOTE_JACKET_BASE_URL}?c=${id}`;
-const TARGET_DIFF = ["INF"]; // "PLR","HRD","NML","ESY"
+const TARGET_DIFF = ["POLAR", "INF"]; // "POLAR","HRD","NML","ESY"
 
 const BG_COLOR = 'rgb(58, 58, 58)';
 
@@ -33,7 +33,7 @@ const AP_DIFF_COLOR = {
 
 const DIFF_COLOR = {
   ESY: "rgba(0, 198, 255,.8)", NML: "rgba(0,191,105,.8)", HRD: "rgba(255, 168, 0,.8)",
-  INF: "rgba(255, 85, 172,.8)", PLR: "rgba(200,62,249,.8)"
+  INF: "rgba(255, 85, 172,.8)", POLAR: "rgb(255, 0, 255)"
 };
 
 const LEVEL_COLOR = {
@@ -437,14 +437,22 @@ function drawMusicTitle(ctx, o, x, y) {
 
 // ジャケットとレベル描画
 function drawJacketAndLevel(ctx, jacket, o, x, y) {
+  const borderWidth = 4;
+  const levelPadding = 2;
+  const levelWidth = o.plus_flag === 1 ? JACKET_SIZE * 5 / 16 : JACKET_SIZE / 4;
+
   if (jacket) {
-    ctx.drawImage(jacket, x, y, JACKET_SIZE, JACKET_SIZE);
+    if (o.diff === "POLAR") {
+      ctx.fillStyle = DIFF_COLOR[o.diff] ?? "rgba(0, 0, 0,.8)";
+      ctx.fillRect(x, y, JACKET_SIZE, JACKET_SIZE);
+      ctx.drawImage(jacket, x + borderWidth, y + borderWidth, JACKET_SIZE - borderWidth * 2, JACKET_SIZE - borderWidth * 2);
+    } else {
+      ctx.drawImage(jacket, x, y, JACKET_SIZE, JACKET_SIZE);
+    }
   }
 
-  const width = o.plus_flag === 1 ? JACKET_SIZE * 5 / 16 : JACKET_SIZE / 4;
-
   ctx.fillStyle = "#000";
-  ctx.fillRect(x + 2, y + 2, width, JACKET_SIZE / 4);
+  ctx.fillRect(x + levelPadding, y + levelPadding, levelWidth, JACKET_SIZE / 4);
 
   drawLevelText(ctx, o, x, y);
 
