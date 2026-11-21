@@ -1,7 +1,7 @@
 [
   {
-    "ver": 68,
-    "date": "2026/11/10",
+    "ver": 69,
+    "date": "2026/11/21",
     "music_data": [
       {
         "level": 11,
@@ -1586,7 +1586,7 @@
         "level_value": 13,
         "music_const": 13.5,
         "music_title": "Dear Deer",
-        "difficulty_ap": 14,
+        "difficulty_ap": 13,
         "is_same_jacket_flag": 0
       },
       {
@@ -5334,56 +5334,56 @@
         "is_same_jacket_flag": 0
       },
       {
+        "level": 12,
+        "music_id": "df0782cc3ef1dad240c49a21ddff4a63",
+        "diff_name": "inf",
+        "plus_flag": 0,
         "data_index": 410,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
-        "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "level_disp": 12,
+        "level_value": 12,
+        "music_const": 12.6,
+        "music_title": "Chippin Break",
+        "difficulty_ap": 8,
+        "is_same_jacket_flag": 0
       },
       {
+        "level": 12,
+        "music_id": "b2f7a2ab44349ae073cfb29ddd7bf18e",
+        "diff_name": "inf",
+        "plus_flag": 1,
         "data_index": 411,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
-        "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "level_disp": "12+",
+        "level_value": 12.5,
+        "music_const": 12.9,
+        "music_title": "Star☆Beat",
+        "difficulty_ap": 9,
+        "is_same_jacket_flag": 0
       },
       {
+        "level": 13,
+        "music_id": "62a9bf3a5d141e79338ded3e3e130130",
+        "diff_name": "inf",
+        "plus_flag": 0,
         "data_index": 412,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
-        "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "level_disp": 13,
+        "level_value": 13,
+        "music_const": 13.5,
+        "music_title": "birth",
+        "difficulty_ap": 13,
+        "is_same_jacket_flag": 0
       },
       {
+        "level": 12,
+        "music_id": "3b59534f84ce319e52421ff725ebd8b2",
+        "diff_name": "inf",
+        "plus_flag": 1,
         "data_index": 413,
-        "music_id": "",
-        "music_title": "",
-        "is_same_jacket_flag": "",
-        "diff_name": "",
-        "level": "",
-        "level_disp": "",
-        "level_value": 0,
-        "plus_flag": 0,
-        "music_const": 0,
-        "difficulty_ap": ""
+        "level_disp": "12+",
+        "level_value": 12.5,
+        "music_const": 12.8,
+        "music_title": "Paradission",
+        "difficulty_ap": 10,
+        "is_same_jacket_flag": 0
       },
       {
         "data_index": 414,
